@@ -4,4 +4,10 @@ We need motor
 Wires 
 bateery or power bank
 
+LCD display 
+Car frame 
+LED lights
+IR sensors
+
+
 Thankyou
